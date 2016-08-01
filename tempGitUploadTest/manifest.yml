@@ -1,0 +1,7 @@
+---
+applications:
+- name: tempGitUploadTest
+  memory: 800M
+  instances: 1
+  services:
+   - 21JulyTestTime2-mysqlclea-9095885682
