@@ -1,0 +1,7 @@
+---
+applications:
+- name: testBlankApp
+  memory: 800M
+  instances: 1
+  services:
+   - testBlankApp-postgre-6977021551
