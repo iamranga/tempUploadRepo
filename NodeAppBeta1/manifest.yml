@@ -1,0 +1,7 @@
+---
+applications:
+- name: NodeAppBeta1
+  memory: 1024M
+  instances: 1
+  services:
+   - NodeAppBeta1-mongodb-6977747222
