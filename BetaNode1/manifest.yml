@@ -1,0 +1,7 @@
+---
+applications:
+- name: BetaNode1
+  memory: 1024M
+  instances: 1
+  services:
+   - BetaNode1-mongodb-6978182574
